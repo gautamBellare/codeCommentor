@@ -1,0 +1,17 @@
+[
+	{
+		"id" : "changelogEntry",
+		"caption": "codeCommenter",
+		"children":
+		[
+			{
+				"caption" : "EOF Comments",
+				"command" : "changelogger",
+			},
+			{
+				"caption" : "In-line Comments",
+				"command" : "changeloggercurrent"
+			}
+		]
+	}
+]
